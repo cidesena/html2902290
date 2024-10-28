@@ -1,0 +1,12 @@
+h1{
+    position: sticky;
+    top: 10px;
+}
+p{
+    position: fixed;
+}
+.caja{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+}

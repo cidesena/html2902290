@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.contenedor {
+  position: relative;
+  width: 80vi;
+  height: 80vi;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border: 2px dotted black;
+
+}
+.caja {
+  width: 20%;
+  height: 20%;
+  position: absolute;
+}
+.caja1 {
+  background-color: yellow;
+}
+.caja2 {
+  background-color: blue;
+  right: 0;
+  top: 0;
+}
+.caja3 {
+  background-color:red;
+  right: 0;
+  bottom: 0;
+}
+
+.caja4 {
+  background-color: forestgreen;
+  left: 0;
+  bottom: 0;
+}
+
+.caja5{
+    background-color: orangered;
+}
